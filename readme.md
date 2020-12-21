@@ -1,5 +1,5 @@
 # readme
-This line, added by *@official-seven*
+This line is updated
 
 ## sub
 Hello
